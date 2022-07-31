@@ -1,0 +1,7 @@
+1. Cac toan tu khi chuyen sang boolean se co gia tri bang false la:
+ + 0
+ + ''
+ + undefined
+ + null
+ + NaN
+ + false
